@@ -1,2 +1,1 @@
-create database addressbook_service
-use addressbook_service
+delete from [dbo].[address_book] where first_name = 'Mansi';
